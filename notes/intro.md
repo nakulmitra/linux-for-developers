@@ -7,6 +7,8 @@ The **kernel** is the **core part** of an operating system that directly interac
 
 > Think of it as the "bridge" between our software (apps) and our hardware (CPU, RAM, disk).
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/EDYoEz6Z3_4)](https://youtu.be/EDYoEz6Z3_4)
+
 ## 2. How a Computer System Works (Windows/macOS)
 
 When we click an application - say, Chrome or VS Code - this happens:
