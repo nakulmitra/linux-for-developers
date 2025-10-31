@@ -30,8 +30,7 @@ Hardware -> Kernel -> OS -> Application -> User
 ```
 
 ### Example (Windows)
-In Windows, this entire process is mostly **hidden from the user** for convenience.  
-Windows prioritizes a **graphical interface** and **ease of use** for general users.
+In Windows, this entire process is mostly **hidden from the user** for convenience. Windows prioritizes a **graphical interface** and **ease of use** for general users.
 
 ## 3. How It Works in Linux
 
@@ -82,7 +81,9 @@ In Linux, we do the same thing - but through **commands** in the terminal, which
 ### Example
 
 **Windows:**  
+```
 Right-click -> Copy -> Paste  
+```
 
 **Linux:**
 ```bash
