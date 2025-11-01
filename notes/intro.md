@@ -1,4 +1,3 @@
-
 ## 1. What Is Linux?
 
 ### Definition
@@ -112,3 +111,5 @@ Linux lets us:
 All using simple terminal commands.
 
 > Think of Linux as the invisible engine that powers almost everything in the software world.
+
+[Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linxu-file-system-st.md)

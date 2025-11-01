@@ -1,6 +1,5 @@
 # Understanding Linux Distributions and The Linux File System Structure  
 
-##  Overview  
 In previous section, we learned what Linux is, how it differs from Windows, and why every developer should know it. In this part, we take things a step further and explore:  
 
 1 **Linux Distributions (Distros)** - What they are, why there are so many, and how they differ.  
@@ -68,3 +67,5 @@ bin  boot  dev  etc  home  lib  media  mnt  opt  proc  root  run  sbin  srv  tmp
 > **Pro Tip:**
 > Everything in Linux is treated as a *file*.
 > Even devices, sockets, and processes appear as files under `/dev` and `/proc`.
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/intro.md)
