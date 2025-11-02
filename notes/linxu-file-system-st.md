@@ -5,6 +5,8 @@ In previous section, we learned what Linux is, how it differs from Windows, and 
 1 **Linux Distributions (Distros)** - What they are, why there are so many, and how they differ.  
 2 **The Linux File System Structure** - Understanding what directories like `/etc`, `/usr`, `/var`, `/home`, etc., actually do.  
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/bJYMqC8Xais)](https://youtu.be/bJYMqC8Xais)
+
 ## Understanding Linux Distributions  
 
 ### What is a Linux Distribution?
