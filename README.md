@@ -16,6 +16,7 @@ The series is structured into multiple parts, each building on the previous one:
 
 - [What is Linux and How It's Different from Windows](notes/intro.md)
 - [Understanding Linux Distributions and The Linux File System Structure](notes/linxu-file-system-st.md)
+- [Setting Up Our Linux Environment](notes/linux-setup.md)
 
 > Think of it as your "course notebook" for the Linux tutorial playlist.
 
