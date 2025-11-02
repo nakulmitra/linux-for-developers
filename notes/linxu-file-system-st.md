@@ -70,4 +70,4 @@ bin  boot  dev  etc  home  lib  media  mnt  opt  proc  root  run  sbin  srv  tmp
 > Everything in Linux is treated as a *file*.
 > Even devices, sockets, and processes appear as files under `/dev` and `/proc`.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/intro.md) | [< Next Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-setup.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/intro.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-setup.md)
