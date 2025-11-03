@@ -17,6 +17,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [What is Linux and How It's Different from Windows](notes/intro.md)
 - [Understanding Linux Distributions and The Linux File System Structure](notes/linux-file-system-st.md)
 - [Setting Up Our Linux Environment](notes/linux-setup.md)
+- [Basic Terminal Navigation in Linux (pwd, ls, cd, cat, less, clear, history)](notes/basic-terminal-navigation.md)
 
 > Think of it as your "course notebook" for the Linux tutorial playlist.
 
