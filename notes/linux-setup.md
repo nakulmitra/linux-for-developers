@@ -87,4 +87,4 @@ wsl --status
 
 Make sure **Version 2** is shown (WSL 2 has full Linux kernel support).
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linxu-file-system-st.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linxu-file-system-st.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/basic-terminal-navigation.md)
