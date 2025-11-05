@@ -4,6 +4,8 @@ In the previous section, we explored **Linux distributions** and the **Linux fil
 
 Now, it's time to get hands-on! In this section, we'll open the Linux terminal and start navigating the file system using fundamental commands every developer should know.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/DhOb4bLk2t8)](https://youtu.be/DhOb4bLk2t8)
+
 ## 1. What is the Terminal?
 
 The **terminal** (or command line interface) is our **direct communication channel** with the Linux operating system. Instead of clicking through folders using a GUI, we can **type commands** to interact with files, directories, and processes. For developers and system administrators, the terminal is an **essential tool** - powerful, fast, and scriptable.
