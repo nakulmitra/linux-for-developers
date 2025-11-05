@@ -163,4 +163,4 @@ This command lists files in long format (`ls -l`) and **pipes** the output to `l
 
 These commands are the **foundation** of working efficiently in Linux. We'll use them daily whether managing servers, deploying apps, or navigating project directories.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-setup.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-setup.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/absolute-vs-relative-paths.md)
