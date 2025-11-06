@@ -167,7 +167,7 @@ Try these out in your terminal:
 ```bash
 pwd                         # Check current directory
 cd /home                    # Go to home using absolute path
-cd vboxuser                    # Go to subdirectory using relative path
+cd vboxuser                 # Go to subdirectory using relative path
 cd ..                       # Move up one level
 cd ~/LinuxTutorial          # Go to LinuxTutorial from anywhere
 ls -l /etc                  # List files using an absolute path
