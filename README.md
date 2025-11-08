@@ -19,6 +19,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Setting Up Our Linux Environment](notes/linux-setup.md)
 - [Basic Terminal Navigation in Linux (pwd, ls, cd, cat, less, clear, history)](notes/basic-terminal-navigation.md)
 - [Understanding Absolute vs Relative Paths in Linux](notes/absolute-vs-relative-paths.md)
+- [Getting Help in Linux - man, --help, and info Commands Explained](notes/help-in-linux.md)
 
 > Think of it as your "course notebook" for the Linux tutorial playlist.
 
