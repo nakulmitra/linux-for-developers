@@ -181,4 +181,4 @@ Understanding paths is **foundational for mastering Linux**. Whether we're editi
 
 > Once we understand paths, the Linux file system feels like second nature.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/basic-terminal-navigation.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/basic-terminal-navigation.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/help-in-linux.md)

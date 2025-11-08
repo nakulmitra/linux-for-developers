@@ -225,3 +225,5 @@ Linux gives us **everything we need to learn and troubleshoot** right from our t
 * `apropos` to discover commands
 
 With these tools, we'll rarely need to search online - Linux teaches us from within itself.
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/absolute-vs-relative-paths.md)
