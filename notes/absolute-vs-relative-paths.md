@@ -2,6 +2,8 @@
 
 In the previous section, we learned how to navigate the Linux file system using basic commands like `pwd`, `ls`, `cd`, and `cat`. In this section, we'll understand one of the most essential topics for working confidently in Linux **the difference between Absolute and Relative Paths**.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/u9eJPAiu0eE)](https://youtu.be/u9eJPAiu0eE)
+
 ## 1. What is a Path?
 
 In Linux, a **path** is simply the *address* or *location* of a file or directory in the file system.
