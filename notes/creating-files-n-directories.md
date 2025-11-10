@@ -164,3 +164,5 @@ Output:
 | Create nested directories   | `mkdir -p parent/child` | Builds parent and child folders |
 | Create empty files          | `touch filename`        | Makes an empty file             |
 | Create multiple files       | `touch file1 file2`     | Makes several files together    |
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/help-in-linux.md)
