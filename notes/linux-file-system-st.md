@@ -10,9 +10,7 @@ In previous section, we learned what Linux is, how it differs from Windows, and 
 ## Understanding Linux Distributions  
 
 ### What is a Linux Distribution?
-Linux itself is just a **kernel** - the core part that manages hardware and system resources.  
-To make it usable, different organizations and communities package this kernel with tools, user interfaces, and software managers.  
-That complete bundle is called a **Linux Distribution (or Distro)**.
+Linux itself is just a **kernel** - the core part that manages hardware and system resources. To make it usable, different organizations and communities package this kernel with tools, user interfaces, and software managers. That complete bundle is called a **Linux Distribution (or Distro)**.
 
 > **Analogy:**  
 > Think of the Linux kernel as the *engine* of a car.  
@@ -40,8 +38,7 @@ In short
 ## The Linux File System Structure Explained
 
 ### The Concept of a Single Root (`/`)
-Unlike Windows, where we have multiple drives (`C:\`, `D:\`, etc.),  
-Linux uses a **single-root file system hierarchy**, starting from `/` (pronounced *root*).  
+Unlike Windows, where we have multiple drives (`C:\`, `D:\`, etc.), Linux uses a **single-root file system hierarchy**, starting from `/` (pronounced *root*).  
 
 Everything in Linux - whether it's a file, folder, or even a hardware device - exists somewhere under `/`.
 
@@ -55,15 +52,15 @@ bin  boot  dev  etc  home  lib  media  mnt  opt  proc  root  run  sbin  srv  tmp
 | Directory | Description                                                                                 | Example                               |
 | --------- | ------------------------------------------------------------------------------------------- | ------------------------------------- |
 | **/home** | Contains personal directories for each user (like `C:\Users\Nakul` in Windows).             | `/home/nakul`, `/home/dev`            |
-| **/etc**  | Stores all **system configuration files** — think of it as the Control Panel of Linux.      | `/etc/ssh/sshd_config`, `/etc/passwd` |
+| **/etc**  | Stores all **system configuration files** - think of it as the Control Panel of Linux.      | `/etc/ssh/sshd_config`, `/etc/passwd` |
 | **/bin**  | Contains **essential user commands** needed for basic system operation.                     | `ls`, `cp`, `mv`, `cat`               |
 | **/sbin** | Contains **system admin commands** used by root or sudo users.                              | `reboot`, `ifconfig`, `fdisk`         |
-| **/usr**  | Stands for **Unix System Resources** — holds user-installed software, libraries, and tools. | `/usr/bin/vim`, `/usr/lib/`           |
-| **/var**  | Contains files that change frequently — logs, caches, spool data.                           | `/var/log/`, `/var/cache/`            |
+| **/usr**  | Stands for **Unix System Resources** - holds user-installed software, libraries, and tools. | `/usr/bin/vim`, `/usr/lib/`           |
+| **/var**  | Contains files that change frequently - logs, caches, spool data.                           | `/var/log/`, `/var/cache/`            |
 | **/boot** | Contains files needed to **boot the system**, including the kernel and bootloader configs.  | `/boot/vmlinuz`, `/boot/grub/`        |
 | **/dev**  | Holds **device files** representing hardware (disks, USBs, etc.).                           | `/dev/sda`, `/dev/tty`                |
 | **/proc** | A **virtual directory** that provides system and process info in real-time.                 | `/proc/cpuinfo`, `/proc/meminfo`      |
-| **/tmp**  | Temporary storage for apps and users — cleared on reboot.                                   | `/tmp/install.log`                    |
+| **/tmp**  | Temporary storage for apps and users - cleared on reboot.                                   | `/tmp/install.log`                    |
 | **/opt**  | Optional third-party software packages.                                                     | `/opt/google/chrome`                  |
 
 > **Pro Tip:**
