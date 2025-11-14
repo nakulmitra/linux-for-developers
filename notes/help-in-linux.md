@@ -2,7 +2,9 @@
 
 When working in Linux, it's impossible (and unnecessary) to memorize every command and its options. Thankfully, Linux provides built-in documentation tools that allow us to get **detailed help and command usage information right inside the terminal** - no internet needed.
 
-In this guide, we'll explore how to use the following commands effectively:
+[![](https://markdown-videos-api.jorgenkh.no/youtube/t6_JD1vV9ms)](https://youtu.be/t6_JD1vV9ms)
+
+In this section, we'll explore how to use the following commands effectively:
 
 * `man` - The manual pages
 * `--help` - Quick help option
