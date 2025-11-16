@@ -165,4 +165,4 @@ Output:
 | Create empty files          | `touch filename`        | Makes an empty file             |
 | Create multiple files       | `touch file1 file2`     | Makes several files together    |
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/help-in-linux.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/help-in-linux.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/moving-n-renaming-files-n-directories.md)
