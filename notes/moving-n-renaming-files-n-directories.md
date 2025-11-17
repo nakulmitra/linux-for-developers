@@ -1,4 +1,4 @@
-# **Moving and Renaming Files & Directories in Linux (`mv` Command)**
+# Moving and Renaming Files & Directories in Linux (`mv` Command)
 
 The `mv` command in Linux is one of the most commonly used file-management commands. It is used for **moving files**, **moving directories**, and **renaming files or directories**. Unlike some commands that have separate operations for different tasks, `mv` performs both *move* and *rename* operations depending on how it is used.
 
