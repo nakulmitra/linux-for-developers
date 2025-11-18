@@ -1,8 +1,7 @@
 ## 1. What Is Linux?
 
 ### Definition
-**Linux** is an **open-source operating system kernel**, created by **Linus Torvalds** in 1991.  
-The **kernel** is the **core part** of an operating system that directly interacts with hardware - managing CPU, memory, storage, and devices.
+**Linux** is an **open-source operating system kernel**, created by **Linus Torvalds** in 1991. The **kernel** is the **core part** of an operating system that directly interacts with hardware - managing CPU, memory, storage, and devices.
 
 > Think of it as the "bridge" between our software (apps) and our hardware (CPU, RAM, disk).
 
@@ -73,9 +72,7 @@ The **Linux kernel** handles all communication with hardware, but what makes Lin
 
 ## 5. Developer Perspective
 
-In Windows, we use **File Explorer** to copy, move, or delete files.
-
-In Linux, we do the same thing - but through **commands** in the terminal, which is faster and automatable.
+In Windows, we use **File Explorer** to copy, move, or delete files. In Linux, we do the same thing - but through **commands** in the terminal, which is faster and automatable.
 
 ### Example
 
