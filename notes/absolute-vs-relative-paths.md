@@ -6,9 +6,7 @@ In the previous section, we learned how to navigate the Linux file system using 
 
 ## 1. What is a Path?
 
-In Linux, a **path** is simply the *address* or *location* of a file or directory in the file system.
-
-Just like our home has an address, every file and folder in Linux has a unique path that tells the system where it lives.
+In Linux, a **path** is simply the *address* or *location* of a file or directory in the file system. Just like our home has an address, every file and folder in Linux has a unique path that tells the system where it lives.
 
 ### Example:
 
@@ -28,9 +26,7 @@ So, A **path** defines the route to reach a file or directory in the Linux file 
 
 ## 2. Absolute Path
 
-An **absolute path** always starts from the **root directory `/`** and specifies the *complete* location of a file or folder.
-
-No matter where we currently are in the terminal, this path will always point to the same exact place.
+An **absolute path** always starts from the **root directory `/`** and specifies the *complete* location of a file or folder. No matter where we currently are in the terminal, this path will always point to the same exact place.
 
 ### Example:
 
@@ -38,9 +34,7 @@ No matter where we currently are in the terminal, this path will always point to
 cd /home/vboxuser/LinuxTutorial
 ```
 
-This will always take us to the `LinuxTutorial` folder, regardless of our current working directory.
-
-We can think of it like typing a full address in Google Maps - H.No: 123 ABC Street, New Delhi" - it'll always take us to that specific place, no matter where we're starting from.
+This will always take us to the `LinuxTutorial` folder, regardless of our current working directory. We can think of it like typing a full address in Google Maps - H.No: 123 ABC Street, New Delhi" - it'll always take us to that specific place, no matter where we're starting from.
 
 ### Key Points:
 
@@ -63,9 +57,7 @@ cat /home/vboxuser/notes.txt  # View notes file directly using full path
 
 ## 3. Relative Path
 
-A **relative path** does *not* start with `/`. It's relative to our **current working directory**.
-
-Think of it as giving directions from where we currently are - Go two streets down, then take a left.
+A **relative path** does *not* start with `/`. It's relative to our **current working directory**. Think of it as giving directions from where we currently are - Go two streets down, then take a left.
 
 ### Example:
 
