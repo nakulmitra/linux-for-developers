@@ -2,10 +2,6 @@
 
 In this section, we'll learn how to **create directories (folders)** and **files** in Linux using two essential commands - `mkdir` and `touch`. These are among the most basic yet most used commands for developers working in Linux systems.
 
-## Introduction
-
-In previous sections, we explored Linux navigation and how to move around directories using commands like `pwd`, `ls`, and `cd`. Now that we can navigate the Linux file system, the next step is **creating files and folders** to organize and store our work.
-
 [![](https://markdown-videos-api.jorgenkh.no/youtube/e_1YdFg2bqg)](https://youtu.be/e_1YdFg2bqg)
 
 Linux makes this easy using:
