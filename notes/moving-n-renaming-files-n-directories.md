@@ -88,9 +88,7 @@ This is useful when organizing related files into a single folder.
 
 ### Overwrites by Default
 
-If the destination file already exists, `mv` will overwrite it **without asking**.
-
-To prevent accidental overwrites, use:
+If the destination file already exists, `mv` will overwrite it **without asking**. To prevent accidental overwrites, use:
 
 ```bash
 mv -i file.txt target.txt
@@ -100,9 +98,7 @@ The `-i` option (interactive) asks for confirmation.
 
 ### Moving Across Filesystems
 
-If the move happens within the **same filesystem**, Linux simply updates metadata (fast operation).
-
-If moved **across different partitions or devices**, Linux internally:
+If the move happens within the **same filesystem**, Linux simply updates metadata (fast operation). If moved **across different partitions or devices**, Linux internally:
 
 * Copies the file to the new destination
 * Deletes the original file
@@ -110,9 +106,7 @@ If moved **across different partitions or devices**, Linux internally:
 
 ### No Copy Is Created
 
-`mv` always **moves** files - it does not leave a copy behind.
-
-If we want to copy instead of move, use the `cp` command.
+`mv` always **moves** files - it does not leave a copy behind. If we want to copy instead of move, use the `cp` command.
 
 ## 8. Useful Options
 
@@ -155,8 +149,7 @@ mv "old name.txt" "new name.txt"
 
 ## **Conclusion**
 
-The `mv` command is an essential part of Linux file management.
-With just one command, we can:
+The `mv` command is an essential part of Linux file management. With just one command, we can:
 
 * Move files
 * Move directories
