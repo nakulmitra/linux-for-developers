@@ -101,3 +101,5 @@ The `cp` command is essential for file management in Linux. Whether we're backin
 | Copy multiple files                      | `cp file1.txt file2.txt backup/` |
 | Copy directories                         | `cp -r src/ backup/`             |
 | Copy with details and preserved metadata | `cp -rvp folder/ backup/`        |
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/moving-n-renaming-files-n-directories.md)

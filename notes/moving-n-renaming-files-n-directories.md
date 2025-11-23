@@ -159,4 +159,4 @@ The `mv` command is an essential part of Linux file management. With just one co
 
 Understanding `mv` makes file organization faster, more flexible, and more efficient in the Linux terminal.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/creating-files-n-directories.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/creating-files-n-directories.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/copyingFiles-n-directories.md)
