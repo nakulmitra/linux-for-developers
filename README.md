@@ -22,6 +22,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Getting Help in Linux - man, --help, and info Commands Explained](notes/help-in-linux.md)
 - [Creating Files and Directories in Linux (`mkdir`, `touch`)](notes/creating-files-n-directories.md)
 - [Moving and Renaming Files & Directories in Linux (`mv` Command)](notes/moving-n-renaming-files-n-directories.md)
+- [Copying Files and Directories in Linux (`cp` Command)](notes/copyingFiles-n-directories.md)
 
 > Think of it as your "course notebook" for the Linux tutorial playlist.
 
