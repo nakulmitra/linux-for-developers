@@ -86,9 +86,7 @@ man -f ls
 
 ### What is `--help`?
 
-Most modern Linux commands provide a **built-in help option** that gives a concise summary of command usage, syntax, and available options - right in the terminal.
-
-It's quicker than opening a full manual page.
+Most modern Linux commands provide a **built-in help option** that gives a concise summary of command usage, syntax, and available options - right in the terminal. It's quicker than opening a full manual page.
 
 ### Example:
 
@@ -133,6 +131,7 @@ info ls
 ```
 
 We'll see a screen divided into nodes (sections).
+
 Use:
 
 * `Tab` -> Move between links
