@@ -92,7 +92,7 @@ This will:
 
 ## Summary
 
-The `cp` command is essential for file management in Linux. Whether we're backing up configuration files, copying project folders, or organizing development files - the `cp` command provides multiple ways to copy efficiently.
+The `cp` command is essential for file management in Linux. Whether we're backing up configuration files, copying project folders or organizing development files - the `cp` command provides multiple ways to copy efficiently.
 
 | Task                                     | Command Example                  |
 | ---------------------------------------- | -------------------------------- |
