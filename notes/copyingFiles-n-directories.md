@@ -10,6 +10,8 @@ This command allows us to:
 * Copy entire folders recursively
 * Preserve permissions, timestamps, and attributes (with options)
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/LKmDJbdLFRA)](https://youtu.be/LKmDJbdLFRA)
+
 ### Basic Syntax
 
 ```
