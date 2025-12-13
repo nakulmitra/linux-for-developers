@@ -109,4 +109,4 @@ All using simple terminal commands.
 
 > Think of Linux as the invisible engine that powers almost everything in the software world.
 
-[Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-file-system-st.md)
+[< Previous Page](https://github.com/nakulmitra/linux-for-developers/tree/master) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-file-system-st.md)
