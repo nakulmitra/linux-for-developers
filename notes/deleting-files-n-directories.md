@@ -2,6 +2,8 @@
 
 Deleting files and directories is an essential part of working with the Linux command line. Unlike GUI-based systems that use a recycle bin or trash folder, deletions in Linux using terminal commands are **permanent** - meaning once removed, the data cannot be easily recovered.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/pq52C03Sqho)](https://youtu.be/pq52C03Sqho)
+
 This section explains the primary commands used for deletion:
 
 * `rm` -> remove files and directories
