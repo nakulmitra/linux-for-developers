@@ -53,9 +53,9 @@ rm -r folder_name
 * It deletes the folder
 * It deletes everything inside the folder, including:
 
-  * files
-  * subfolders
-  * nested content
+  1. files
+  2. subfolders
+  3. nested content
 
 Example:
 
