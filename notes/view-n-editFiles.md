@@ -196,3 +196,5 @@ Ctrl + D
 
 Linux provides powerful tools for viewing and editing files directly from the terminal.
 Mastering `cat`, `less`, `nano`, and `vim` allows developers to work efficiently on servers, containers, and cloud environments without relying on a graphical interface.
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/deleting-files-n-directories.md)

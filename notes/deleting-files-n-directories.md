@@ -155,4 +155,4 @@ This mode is recommended for beginners.
 
 The `rm` and `rmdir` commands provide powerful ways to delete files and directories directly from the Linux terminal. Once comfortable with them, file cleanup becomes faster and more efficient - but always handle them carefully, especially recursive and forced delete operations.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/copyingFiles-n-directories.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/copyingFiles-n-directories.md) | [Next Page >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/view-n-editFiles.md)
