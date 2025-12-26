@@ -227,4 +227,4 @@ Linux gives us **everything we need to learn and troubleshoot** right from our t
 
 With these tools, we'll rarely need to search online - Linux teaches us from within itself.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/absolute-vs-relative-paths.md) | [Next Page >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/creating-files-n-directories.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/absolute-vs-relative-paths.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/creating-files-n-directories.md)
