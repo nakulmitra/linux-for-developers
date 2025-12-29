@@ -25,6 +25,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Copying Files and Directories in Linux (`cp` Command)](notes/copyingFiles-n-directories.md)
 - [Deleting Files and Directories in Linux](notes/deleting-files-n-directories.md)
 - [Viewing & Editing Files in Linux](notes/view-n-editFiles.md)
+- [Viewing Files in Linux (cat, less, head, tail)](notes/view-files.md)
 
 > Think of it as your "course notebook" for the Linux tutorial playlist.
 
