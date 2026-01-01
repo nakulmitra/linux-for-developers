@@ -4,6 +4,8 @@ Viewing file contents from the command line is one of the most common tasks perf
 
 This section explains **cat, less, head, and tail**, their behavior, use cases, and best practices.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/vAelSPMvRNM)](https://youtu.be/vAelSPMvRNM)
+
 ## Why File Viewing Commands Matter
 
 In real-world systems, we frequently work with:
