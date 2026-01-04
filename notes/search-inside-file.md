@@ -204,3 +204,5 @@ tail -f app.log | grep "ERROR"
   * Codebase exploration
 
 Mastering `grep` dramatically improves productivity for developers and system engineers.
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/view-files.md)
