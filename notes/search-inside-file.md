@@ -70,7 +70,7 @@ grep -r "password" /etc
 
 Searches through all files and subdirectories.
 
-> **Very useful for scanning configuration files**
+> Very useful for scanning configuration files
 
 ## Using Regular Expressions with `grep`
 
@@ -98,11 +98,7 @@ grep "[0-9]" data.txt
 
 `egrep` is an extended version of `grep` that supports **Extended Regular Expressions (ERE)**.
 
-> On modern Linux systems, `egrep` is equivalent to:
-
-```bash
-grep -E
-```
+> On modern Linux systems, `egrep` is equivalent to: `grep -E`
 
 ### Match Multiple Patterns
 
@@ -126,11 +122,7 @@ egrep "(ERROR|WARN)[0-9]+" app.log
 
 `fgrep` performs **fixed-string searches**, meaning it does **not interpret regular expressions**.
 
-> On modern Linux systems, `fgrep` is equivalent to:
-
-```bash
-grep -F
-```
+> On modern Linux systems, `fgrep` is equivalent to: `grep -F`
 
 ### Example
 
