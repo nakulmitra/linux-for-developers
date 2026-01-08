@@ -1,6 +1,6 @@
 # Viewing & Editing Files in Linux
 
-**Tools: `cat`, `less`, `nano`, `vim`, `cat >>`**
+> Tools: `cat`, `less`, `nano`, `vim`, `cat >>`
 
 Working with files directly from the Linux terminal is a **core skill for developers, DevOps engineers, and system administrators**.
 Whether we are editing configuration files, reading logs, or writing scripts on a remote server, terminal-based tools are fast, lightweight, and always available.
