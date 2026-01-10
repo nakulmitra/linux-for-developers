@@ -22,9 +22,7 @@ Manually opening files is inefficient. Tools like `grep` allow us to **search in
 
 ## What Is `grep`?
 
-`grep` stands for **Global Regular Expression Print**.
-
-It scans one or more files, searches for lines matching a given pattern, and prints those lines to standard output.
+`grep` stands for **Global Regular Expression Print**. It scans one or more files, searches for lines matching a given pattern, and prints those lines to standard output.
 
 ### Basic Syntax
 
