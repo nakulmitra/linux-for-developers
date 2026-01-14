@@ -197,4 +197,4 @@ tail -f app.log | grep "ERROR"
 
 Mastering `grep` dramatically improves productivity for developers and system engineers.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/view-files.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/view-files.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/wc-command.md)
