@@ -3,6 +3,8 @@
 The `wc` command is one of the simplest yet most powerful text-processing tools in Linux.
 It is used to count **lines, words, and characters** in files or command output. Developers, system administrators, and DevOps engineers use it daily to analyze logs, datasets, and source code.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/SZsFzk6EaFQ)](https://youtu.be/SZsFzk6EaFQ)
+
 ## What is `wc`?
 
 `wc` stands for **Word Count**, but it does much more than just counting words.
