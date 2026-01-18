@@ -216,3 +216,5 @@ This is extremely useful for debugging production systems.
 * `uniq` only works properly if input is sorted
 * These commands are extremely powerful when combined with `grep` and pipes
 * They are essential for log analysis, debugging, and data processing in Linux
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/wc-command.md)
