@@ -202,12 +202,12 @@ This is extremely useful for debugging production systems.
 
 # Summary Table
 
-| Command   | Purpose                   | Example               |          |
-| --------- | ------------------------- | --------------------- | -------- |
-| `sort`    | Sort lines alphabetically | `sort file.txt`       |          |
-| `sort -n` | Numeric sort              | `sort -n numbers.txt` |          |
-| `uniq`    | Remove duplicates         | `sort file.txt        | uniq`    |
-| `uniq -c` | Count duplicates          | `sort file.txt        | uniq -c` |
+| Command   | Purpose                   | Example                 |
+| --------- | ------------------------- | ----------------------- |
+| `sort`    | Sort lines alphabetically | `sort file.txt`         |
+| `sort -n` | Numeric sort              | `sort -n numbers.txt`   |
+| `uniq`    | Remove duplicates         | `sort file.txt uniq`    |
+| `uniq -c` | Count duplicates          | `sort file.txt uniq -c` |
 
 # Key Takeaways
 
