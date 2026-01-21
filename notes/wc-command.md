@@ -166,4 +166,4 @@ It is widely used in:
 
 Although `wc` looks simple, it is one of the most powerful **Linux text analysis tools** when combined with commands like `grep`, `cat`, `sort`, and `uniq`. This makes it an essential skill for every Linux user, developer, and DevOps engineer.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/search-inside-file.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/search-inside-file.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/sort-n-uniq-command.md)
