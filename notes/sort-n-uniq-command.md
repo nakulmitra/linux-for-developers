@@ -1,12 +1,12 @@
 # Sorting & Filtering in Linux (`sort`, `uniq`)
 
-This document explains two powerful Linux text-processing commands **`sort`** and **`uniq`** which are widely used by developers, DevOps engineers, and system administrators when working with logs, configuration files, CSV data, and large text datasets.
+This section explains two powerful Linux text-processing commands **`sort`** and **`uniq`** which are widely used by developers, DevOps engineers, and system administrators when working with logs, configuration files, CSV data, and large text datasets.
 
 These commands are commonly used together in Linux pipelines to organize and clean data efficiently.
 
 ## Objectives
 
-After reading this guide, you will understand:
+After reading this section, you will understand:
 
 * What `sort` does and how to use it
 * The difference between alphabetical and numeric sorting
