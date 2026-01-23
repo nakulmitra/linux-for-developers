@@ -4,6 +4,8 @@ This section explains two powerful Linux text-processing commands **`sort`** and
 
 These commands are commonly used together in Linux pipelines to organize and clean data efficiently.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/p11n_ao982I)](https://youtu.be/p11n_ao982I)
+
 ## Objectives
 
 After reading this section, you will understand:
