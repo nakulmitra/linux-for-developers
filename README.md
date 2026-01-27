@@ -29,6 +29,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Searching Inside Files in Linux](notes/search-inside-file.md)
 - [Counting Lines, Words & Characters in Linux](notes/wc-command.md)
 - [Sorting & Filtering in Linux (`sort`, `uniq`)](notes/sort-n-uniq-command.md)
+- [Understanding File Permissions in Linux (r, w, x)](notes/linux-permissions.md)
 
 > Think of it as your "course notebook" for the Linux tutorial playlist.
 
