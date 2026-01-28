@@ -219,4 +219,4 @@ This is extremely useful for debugging production systems.
 * These commands are extremely powerful when combined with `grep` and pipes
 * They are essential for log analysis, debugging, and data processing in Linux
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/wc-command.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/wc-command.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-permissions.md)
