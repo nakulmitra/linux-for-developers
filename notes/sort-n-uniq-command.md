@@ -121,11 +121,7 @@ Now `sorted_data.txt` contains the sorted content.
 
 # Understanding the `uniq` Command
 
-The `uniq` command is used to remove duplicate lines from a file.
-
-### Important Rule
-
-**The input must be sorted first** Otherwise, `uniq` will not remove all duplicates correctly.
+The `uniq` command is used to remove duplicate lines from a file. **The input must be sorted first** Otherwise, `uniq` will not remove all duplicates correctly.
 
 ## Basic Example
 
