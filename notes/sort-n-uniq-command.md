@@ -20,9 +20,7 @@ After reading this section, you will understand:
 
 # Understanding the `sort` Command
 
-The `sort` command is used to arrange lines of text in a file in a specific order.
-
-By default, it sorts **alphabetically (lexicographically)** line by line.
+The `sort` command is used to arrange lines of text in a file in a specific order. By default, it sorts **alphabetically (lexicographically)** line by line.
 
 ### Basic Usage
 
