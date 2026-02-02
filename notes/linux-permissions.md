@@ -1,8 +1,6 @@
 # Understanding File Permissions in Linux (r, w, x)
 
-File permissions are one of the most important security features in Linux. They define **who can access a file or directory** and **what actions they are allowed to perform**.
-
-Every file and directory in Linux has:
+File permissions are one of the most important security features in Linux. They define **who can access a file or directory** and **what actions they are allowed to perform**. Every file and directory in Linux has:
 
 * An **owner**
 * A **group**
@@ -149,9 +147,7 @@ Error:
 Permission denied
 ```
 
-Reason: The script does **not have execute permission**.
-
-Linux will never run a file unless `x` is set.
+> Reason: The script does **not have execute permission**. Linux will never run a file unless `x` is set.
 
 ## Typical Permission Patterns
 
@@ -203,11 +199,7 @@ Spring Boot app fails to start:
 Permission denied
 ```
 
-Fix:
-The script exists, but **execute permission missing**.
-
-This is not a Java problem.
-This is a **Linux permission problem**.
+> Fix: The script exists, but **execute permission missing**. This is not a Java problem. This is a **Linux permission problem**.
 
 ## Summary Table
 
