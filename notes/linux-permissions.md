@@ -225,6 +225,6 @@ Permission denied
 * Every file has **owner, group, others**
 * Every entity has **r, w, x permissions**
 * `ls -l` is our first debugging tool
-* Most "Permission denied" issues are solved by understanding this topic
+* Most **Permission denied** issues are solved by understanding this topic
 
 [< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/sort-n-uniq-command.md)
