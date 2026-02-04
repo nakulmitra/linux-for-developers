@@ -7,9 +7,7 @@ It is used to count **lines, words, and characters** in files or command output.
 
 ## What is `wc`?
 
-`wc` stands for **Word Count**, but it does much more than just counting words.
-
-By default, `wc` shows:
+`wc` stands for **Word Count**, but it does much more than just counting words. By default, `wc` shows:
 
 * Number of **lines**
 * Number of **words**
