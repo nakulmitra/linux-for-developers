@@ -16,9 +16,7 @@ Understanding this concept is mandatory for developers, DevOps engineers, and sy
 
 ## Why File Permissions Matter
 
-Linux is a **multi-user operating system**. Multiple users can work on the same machine at the same time.
-
-Without permissions:
+Linux is a **multi-user operating system**. Multiple users can work on the same machine at the same time. Without permissions:
 
 * Any user could modify system files
 * Any user could delete critical data
@@ -186,9 +184,7 @@ As a developer, file permissions affect:
 * SSH access
 * Production servers
 
-Most real-world Linux errors come from:
-
-> **Incorrect permissions, not broken code.**
+Most real-world Linux errors come from **Incorrect permissions, not broken code.**
 
 ## Real Production Example
 
