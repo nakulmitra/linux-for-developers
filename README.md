@@ -45,4 +45,4 @@ Follow the tutorials, experiment with commands, and get comfortable with the env
 * [PostgreSQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
 * [Multithreading Series in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgahnSGPIJehTKtUU_0kSevR)
 
-[Next Page >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-file-system-st.md)
+[Next Page >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/intro.md)
