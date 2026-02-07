@@ -9,7 +9,7 @@
 
 ## 2. How a Computer System Works (Windows/macOS)
 
-When we click an application - say, Chrome or VS Code - this happens:
+When we click an application say, **Chrome or VS Code** this happens:
 
 ```
 User -> Application -> Operating System -> Kernel -> Hardware
