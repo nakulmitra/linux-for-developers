@@ -2,7 +2,7 @@
 
 ### `grep`, `egrep`, and `fgrep`
 
-Searching text inside files is one of the most common tasks performed by developers, DevOps engineers, and system administrators. Linux provides powerful command-line utilities that allow us to quickly find patterns, errors, configuration values, and keywords inside files and directories.
+Searching text inside files is one of the most common tasks performed by developers, DevOps engineers, and system administrators. Linux provides powerful command line utilities that allow us to quickly find patterns, errors, configuration values, and keywords inside files and directories.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/h_1vU7dAmrg)](https://youtu.be/h_1vU7dAmrg)
 
