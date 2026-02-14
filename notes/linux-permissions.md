@@ -14,7 +14,7 @@ These permissions control:
 
 Understanding this concept is mandatory for developers, DevOps engineers, and system administrators.
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/8ZY1YwGl23o)](https://youtu.be/_C-hbiJRSag)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/_C-hbiJRSag)](https://youtu.be/_C-hbiJRSag)
 
 ## Why File Permissions Matter
 
