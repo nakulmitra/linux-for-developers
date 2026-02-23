@@ -30,6 +30,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Counting Lines, Words & Characters in Linux](notes/wc-command.md)
 - [Sorting & Filtering in Linux (`sort`, `uniq`)](notes/sort-n-uniq-command.md)
 - [Understanding File Permissions in Linux (`r`, `w`, `x`)](notes/linux-permissions.md)
+- [Linux `chmod` Command](notes/chmod_command.md)
 
 > Think of it as your "course notebook" for the Linux tutorial playlist.
 
