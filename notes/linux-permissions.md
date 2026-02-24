@@ -225,4 +225,4 @@ Permission denied
 * `ls -l` is our first debugging tool
 * Most **Permission denied** issues are solved by understanding this topic
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/sort-n-uniq-command.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/sort-n-uniq-command.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/chmod_command.md)
