@@ -263,3 +263,5 @@ It recursively gives full access to entire filesystem - extremely dangerous.
 * Two modes: symbolic and numeric.
 * Numeric mode is widely used in production.
 * Avoid insecure permission settings.
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-permissions.md)
