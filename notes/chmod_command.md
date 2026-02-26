@@ -8,6 +8,8 @@ In Linux, every file and directory has **access permissions** that define:
 
 The `chmod` command (Change Mode) is used to modify these permissions.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/gnNNJulANaI)](https://youtu.be/gnNNJulANaI)
+
 It is one of the most important commands for:
 
 * Developers
