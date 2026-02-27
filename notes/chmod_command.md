@@ -54,9 +54,7 @@ r-- -> Others permissions
 
 # What is `chmod`?
 
-`chmod` stands for:
-
-> **Change Mode:** It modifies the permission bits of a file or directory.
+`chmod` stands for **Change Mode**. It modifies the permission bits of a file or directory.
 
 ### Syntax
 
