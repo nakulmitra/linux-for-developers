@@ -4,7 +4,7 @@ Welcome to the [Linux for Developers](https://www.youtube.com/playlist?list=PLKr
 
 This repository contains **detailed notes** & **scripts** used in the YouTube video series, designed to help developers understand Linux from the ground up.
 
-Whether you're a **backend developer**, **DevOps engineer**, or **curious beginner**, this repo will help you:
+Whether you're a **backend developer**, **DevOps engineer** or **curious beginner**, this repo will help you:
 - Understand what Linux actually is (beyond just "an OS")
 - Learn how it differs from Windows and macOS
 - Explore the Linux filesystem and architecture
