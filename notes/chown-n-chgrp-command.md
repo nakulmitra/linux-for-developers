@@ -293,3 +293,5 @@ Understanding ownership and groups is essential for:
 * Managing Linux servers
 * Secure DevOps practices
 * Backend deployment pipelines
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/chmod_command.md)
