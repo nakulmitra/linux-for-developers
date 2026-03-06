@@ -264,4 +264,4 @@ It recursively gives full access to entire filesystem - extremely dangerous.
 * Numeric mode is widely used in production.
 * Avoid insecure permission settings.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-permissions.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/linux-permissions.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/chown-n-chgrp-command.md)
