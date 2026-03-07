@@ -72,9 +72,7 @@ Permission denied
 
 ## What is `chown`?
 
-`chown` stands for:
-
-> **Change Owner**
+`chown` stands for **Change Owner**
 
 It is used to change:
 
@@ -121,9 +119,7 @@ This is very common in server environments.
 
 ## What is `chgrp`?
 
-`chgrp` stands for:
-
-> **Change Group**
+`chgrp` stands for **Change Group**
 
 It modifies only the group ownership.
 
