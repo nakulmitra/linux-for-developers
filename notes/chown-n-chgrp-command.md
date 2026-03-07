@@ -5,8 +5,9 @@ In Linux, access control is based on two core concepts:
 * **Permissions** (r, w, x)
 * **Ownership** (User & Group)
 
-While `chmod` controls *what actions are allowed*,
-`chown` and `chgrp` control *who those permissions apply to*.
+[![](https://markdown-videos-api.jorgenkh.no/youtube/uHiXGcBEIQ8)](https://youtu.be/uHiXGcBEIQ8)
+
+While `chmod` controls *what actions are allowed*, `chown` and `chgrp` control *who those permissions apply to*.
 
 Understanding ownership is critical for:
 
