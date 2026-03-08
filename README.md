@@ -47,4 +47,9 @@ Follow the tutorials, experiment with commands, and get comfortable with the env
 * [PostgreSQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
 * [Multithreading Series in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgahnSGPIJehTKtUU_0kSevR)
 
+## Support
+If this helped you, consider supporting my tutorials
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/nakulmitra)
+
 [Next Page >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/intro.md)
