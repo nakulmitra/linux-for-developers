@@ -33,7 +33,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Linux `chmod` Command](notes/chmod_command.md)
 - [Ownership & Groups in Linux (`chown`, `chgrp`)](notes/chown-n-chgrp-command.md)
 
-> Think of it as your "course notebook" for the Linux tutorial playlist.
+> Think of it as your **course notebook** for the Linux tutorial playlist.
 
 Follow the tutorials, experiment with commands, and get comfortable with the environment that powers almost every server and cloud system today.
 
