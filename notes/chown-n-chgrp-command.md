@@ -1,4 +1,4 @@
-# Ownership & Groups in Linux (`chown`, `chgrp`)
+# Change Ownership & Groups in Linux (`chown`, `chgrp`)
 
 In Linux, access control is based on two core concepts:
 
