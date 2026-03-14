@@ -32,6 +32,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Understanding File Permissions in Linux (`r`, `w`, `x`)](notes/linux-permissions.md)
 - [Linux `chmod` Command](notes/chmod_command.md)
 - [Change Ownership & Groups in Linux (`chown`, `chgrp`)](notes/chown-n-chgrp-command.md)
+- [User Management in Linux (`useradd`, `usermod`, `userdel`)](notes/create-modify-update-user.md)
 
 > Think of it as your **course notebook** for the Linux tutorial playlist.
 
