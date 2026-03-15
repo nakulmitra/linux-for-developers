@@ -291,4 +291,4 @@ Understanding ownership and groups is essential for:
 * Secure DevOps practices
 * Backend deployment pipelines
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/chmod_command.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/chmod_command.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/create-modify-update-user.md)
