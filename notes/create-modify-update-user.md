@@ -8,6 +8,8 @@ Linux is designed as a **multi-user operating system**, meaning multiple users c
 * Modify existing user accounts
 * Delete users when they are no longer needed
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/ud3yZ1WNPOE)](https://youtu.be/ud3yZ1WNPOE)
+
 These operations are performed using three primary commands:
 
 | Command   | Purpose                 |
