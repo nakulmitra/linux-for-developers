@@ -164,7 +164,7 @@ sudo groupdel developers
 * The group should not be actively used by any user
 * If a group is set as a user's primary group, deletion may fail
 
-# 8. Real-World Developer Scenarios
+# 8. Real World Developer Scenarios
 
 ## 1. Managing a Development Team
 
@@ -292,6 +292,6 @@ Mastering group management is essential for working with:
 * Linux servers
 * DevOps environments
 * Production systems
-* Team-based development setups
+* Team based development setups
 
 [< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/create-modify-update-user.md)
