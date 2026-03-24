@@ -4,11 +4,9 @@
 
 Linux is a **multi-user operating system**, where multiple users can work on the same system simultaneously. Managing permissions individually for each user can become complex. To solve this, Linux introduces the concept of **groups**.
 
-A **group** is a collection of users that share common access permissions.
+A **group** is a collection of users that share common access permissions. Instead of assigning permissions to individual users, administrators can assign permissions to a group, and all users in that group inherit those permissions.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/MUTuZicdQE0)](https://youtu.be/MUTuZicdQE0)
-
-Instead of assigning permissions to individual users, administrators can assign permissions to a group, and all users in that group inherit those permissions.
 
 Group management is essential for:
 
