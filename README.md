@@ -34,6 +34,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Change Ownership & Groups in Linux (`chown`, `chgrp`)](notes/chown-n-chgrp-command.md)
 - [User Management in Linux (`useradd`, `usermod`, `userdel`)](notes/create-modify-update-user.md)
 - [Group Management in Linux (`groupadd`, `groupdel`, `gpasswd`)](notes/manage-groups.md)
+- [sudo & Root Privileges in Linux](notes/sudo-n-root-access.md)
 
 > Think of it as your **course notebook** for the Linux tutorial playlist.
 
