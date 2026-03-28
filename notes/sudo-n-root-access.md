@@ -7,6 +7,8 @@ Some tasks, like installing software or modifying system files, require **admini
 
 This is where **root user** and **sudo** come into play.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/uj-VrHjK1n4)](https://youtu.be/uj-VrHjK1n4)
+
 Understanding these concepts is essential for:
 
 * Developers working on Linux systems
