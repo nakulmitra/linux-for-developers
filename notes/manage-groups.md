@@ -292,4 +292,4 @@ Mastering group management is essential for working with:
 * Production systems
 * Team based development setups
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/create-modify-update-user.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/create-modify-update-user.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/sudo-n-root-access.md)
