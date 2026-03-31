@@ -17,9 +17,7 @@ Understanding these concepts is essential for:
 
 # 2. What is the Root User?
 
-The **root user** is the **superuser** in Linux.
-
-It has:
+The **root user** is the **superuser** in Linux. It has:
 
 * Full control over the system
 * Access to all files and directories
@@ -35,9 +33,7 @@ It has:
 
 ## Why Root is Dangerous
 
-With great power comes great responsibility.
-
-A single wrong command can:
+With great power comes great responsibility. A single wrong command can:
 
 * Delete critical system files
 * Break the operating system
@@ -99,9 +95,7 @@ Using `sudo` is considered a **best practice**.
 
 ## Principle of Least Privilege
 
-Users should only have the **minimum permissions required**.
-
-`sudo` follows this principle by granting **temporary elevated access**.
+Users should only have the **minimum permissions required**. `sudo` follows this principle by granting **temporary elevated access**.
 
 # 6. Who Can Use sudo?
 
