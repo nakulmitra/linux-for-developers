@@ -2,9 +2,7 @@
 
 ## 1. Introduction
 
-Linux is powerful not just because of its commands, but because of how **commands can be combined together**.
-
-Instead of writing complex programs, you can solve real-world problems by chaining simple commands using:
+Linux is powerful not just because of its commands, but because of how **commands can be combined together**. Instead of writing complex programs, we can solve real-world problems by chaining simple commands using:
 
 * **Pipes (`|`)**
 * **Redirection (`>`, `>>`, `<`)**
@@ -33,8 +31,8 @@ ls | wc -l
 
 ### Explanation:
 
-* `ls` → Lists files
-* `wc -l` → Counts lines
+* `ls` -> Lists files
+* `wc -l` -> Counts lines
 
 > Output: Total number of files in the directory
 
@@ -57,7 +55,7 @@ grep "ERROR" app.log
 
 # 3. Chaining Multiple Commands
 
-You can chain multiple commands using pipes.
+We can chain multiple commands using pipes.
 
 ## Example
 
@@ -93,7 +91,7 @@ ls > files.txt
 
 ## Important Behavior
 
-* If the file exists → **it will be overwritten**
+* If the file exists -> **it will be overwritten**
 
 # 5. Append Output (`>>`)
 
@@ -145,7 +143,7 @@ wc -l < file.txt
 
 # 7. Standard Streams in Linux
 
-To understand pipes and redirection, you must know about **standard streams**:
+To understand pipes and redirection, we must know about **standard streams**:
 
 | Stream     | Description |
 | ---------- | ----------- |
@@ -264,19 +262,19 @@ Counts number of lines containing "ERROR".
 
 ### Q4: What are standard streams?
 
-* STDIN → Input
-* STDOUT → Output
-* STDERR → Errors
+* STDIN -> Input
+* STDOUT -> Output
+* STDERR -> Errors
 
 # 14. Conclusion
 
 Pipes and redirection are among the most powerful features of Linux.
 
-They allow you to:
+They allow us to:
 
 * Combine simple commands into complex workflows
 * Process large datasets efficiently
 * Automate repetitive tasks
 * Perform real-time log analysis
 
-Mastering these concepts will significantly improve your productivity as a developer or DevOps engineer.
+Mastering these concepts will significantly improve our productivity as a developer or DevOps engineer.
