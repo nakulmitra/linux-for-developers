@@ -234,11 +234,11 @@ command > /dev/null
 
 # 12. Summary
 
-| Symbol | Meaning                     |                             |
-| ------ | --------------------------- | --------------------------- |
-| `>`    | Redirect output (overwrite) |                             |
-| `>>`   | Append output               |                             |
-| `<`    | Take input from file        |                             |
+| Symbol | Meaning                     |
+| ------ | --------------------------- |
+| `>`    | Redirect output (overwrite) |
+| `>>`   | Append output               |
+| `<`    | Take input from file        |
 
 # 13. Interview Questions
 
