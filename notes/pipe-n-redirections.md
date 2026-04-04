@@ -232,11 +232,10 @@ command > /dev/null
 * Not understanding command order in pipelines
 * Ignoring error output
 
-# 12. Command Summary
+# 12. Summary
 
 | Symbol | Meaning                     |                             |
 | ------ | --------------------------- | --------------------------- |
-| `      | `                           | Pipe output to next command |
 | `>`    | Redirect output (overwrite) |                             |
 | `>>`   | Append output               |                             |
 | `<`    | Take input from file        |                             |
