@@ -35,6 +35,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [User Management in Linux (`useradd`, `usermod`, `userdel`)](notes/create-modify-update-user.md)
 - [Group Management in Linux (`groupadd`, `groupdel`, `gpasswd`)](notes/manage-groups.md)
 - [sudo & Root Privileges in Linux](notes/sudo-n-root-access.md)
+- [Combining Commands with Pipes & Redirection in Linux](notes/pipe-n-redirections.md)
 
 > Think of it as your **course notebook** for the Linux tutorial playlist.
 
