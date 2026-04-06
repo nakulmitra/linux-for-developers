@@ -7,6 +7,8 @@ Linux is powerful not just because of its commands, but because of how **command
 * **Pipes (`|`)**
 * **Redirection (`>`, `>>`, `<`)**
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/okWH9stQA6Q)](https://youtu.be/okWH9stQA6Q)
+
 This is a core concept used by:
 
 * Developers
