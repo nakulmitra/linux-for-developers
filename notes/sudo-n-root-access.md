@@ -284,4 +284,4 @@ It helps us:
 
 Instead of using root directly, always prefer **sudo** for controlled and secure access.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/manage-groups.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/manage-groups.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/pipe-n-redirections.md)
