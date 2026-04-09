@@ -273,9 +273,7 @@ sudo usermod -aG sudo username
 
 # 14. Conclusion
 
-Understanding **sudo and root privileges** is critical for working with Linux systems.
-
-It helps us:
+Understanding **sudo and root privileges** is critical for working with Linux systems. It helps us:
 
 * Perform administrative tasks safely
 * Avoid permission errors
