@@ -269,9 +269,7 @@ Counts number of lines containing "ERROR".
 
 # 14. Conclusion
 
-Pipes and redirection are among the most powerful features of Linux.
-
-They allow us to:
+Pipes and redirection are among the most powerful features of Linux. They allow us to:
 
 * Combine simple commands into complex workflows
 * Process large datasets efficiently
