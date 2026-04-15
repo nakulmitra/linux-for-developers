@@ -4,6 +4,8 @@
 
 In Linux, a **process** is an instance of a program that is currently being executed. Every time we run a command, open an application, or execute a script, the operating system creates a process. Processes are the foundation of how Linux manages tasks, allocates system resources (CPU, memory), and ensures multitasking.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/si0lFcJp94Y)](https://youtu.be/si0lFcJp94Y)
+
 ## What is a Process?
 
 A **process** is a program in execution along with its current state, resources, and context.
