@@ -287,3 +287,5 @@ Understanding processes is essential for:
 * Working in DevOps and production environments
 
 Mastering these commands helps developers efficiently manage Linux systems and troubleshoot real-world issues.
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/pipe-n-redirections.md)
