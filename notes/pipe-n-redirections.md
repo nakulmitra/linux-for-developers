@@ -278,4 +278,4 @@ Pipes and redirection are among the most powerful features of Linux. They allow 
 
 Mastering these concepts will significantly improve our productivity as a developer or DevOps engineer.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/sudo-n-root-access.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/sudo-n-root-access.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/processes.md)
