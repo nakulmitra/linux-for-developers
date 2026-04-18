@@ -40,7 +40,7 @@ PID   TTY          TIME CMD
 
 ## Process Lifecycle
 
-A process goes through different states during execution:
+A process goes through different states during execution.
 
 | State      | Description                    |
 | ---------- | ------------------------------ |
@@ -238,7 +238,7 @@ Processes consume:
 
 ### Process Scheduling
 
-Linux uses scheduling algorithms to:
+Linux uses scheduling algorithms to
 
 * Decide which process runs next
 * Ensure fair resource allocation
@@ -279,7 +279,7 @@ Linux uses scheduling algorithms to:
 
 ## Conclusion
 
-Understanding processes is essential for:
+Understanding processes is essential for
 
 * Debugging applications
 * Monitoring system performance
