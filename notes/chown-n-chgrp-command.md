@@ -284,7 +284,7 @@ Recursively changes ownership of directory and all contents.
 
 # Conclusion
 
-Understanding ownership and groups is essential for:
+Understanding ownership and groups is essential for
 
 * Fixing production permission errors
 * Managing Linux servers
