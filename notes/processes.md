@@ -8,7 +8,7 @@ In Linux, a **process** is an instance of a program that is currently being exec
 
 ## What is a Process?
 
-A **process** is a program in execution along with its current state, resources, and context.
+A **process** is a program in execution along with its current state, resources and context.
 
 ### Key Characteristics
 
