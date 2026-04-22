@@ -11,9 +11,7 @@ Understanding how to control these jobs is essential for developers, DevOps engi
 
 ## What are Jobs in Linux?
 
-A **job** is a process that is started from a shell (terminal session).
-
-> Jobs are managed by the shell and can run in:
+A **job** is a process that is started from a shell (terminal session). Jobs are managed by the shell and can run in:
 
 * **Foreground**
 * **Background**
@@ -58,7 +56,7 @@ sleep 100 &
 
 ## Suspending a Job (Ctrl + Z)
 
-We can pause a running foreground job using:
+We can pause a running foreground job using
 
 ```bash
 Ctrl + Z
@@ -71,7 +69,7 @@ Ctrl + Z
 
 ## Resuming Jobs in Background (`bg`)
 
-To resume a stopped job in the background:
+To resume a stopped job in the background
 
 ```bash
 bg
@@ -87,7 +85,7 @@ bg
 
 ## Listing Jobs (`jobs`)
 
-To see all jobs in the current shell:
+To see all jobs in the current shell
 
 ```bash
 jobs
@@ -109,7 +107,7 @@ jobs
 
 ## Bringing Job to Foreground (`fg`)
 
-To bring a background job back to the foreground:
+To bring a background job back to the foreground
 
 ```bash
 fg %1
@@ -124,7 +122,7 @@ fg %1
 
 ## Running Jobs Directly in Background (`&`)
 
-Instead of suspending, we can start a job directly in the background:
+Instead of suspending, we can start a job directly in the background
 
 ```bash
 sleep 200 &
