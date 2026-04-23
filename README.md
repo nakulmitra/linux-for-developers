@@ -37,6 +37,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [sudo & Root Privileges in Linux](notes/sudo-n-root-access.md)
 - [Combining Commands with Pipes & Redirection in Linux](notes/pipe-n-redirections.md)
 - [Understanding Processes in Linux](notes/processes.md)
+- [Background & Foreground Jobs in Linux](notes/fore-n-background-job.md)
 
 > Think of it as your **course notebook** for the Linux tutorial playlist.
 
