@@ -257,3 +257,5 @@ Mastering these commands is essential for:
 * Developers
 * DevOps engineers
 * System administrators
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/processes.md)
