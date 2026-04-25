@@ -288,4 +288,4 @@ Understanding processes is essential for
 
 Mastering these commands helps developers efficiently manage Linux systems and troubleshoot real-world issues.
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/pipe-n-redirections.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/pipe-n-redirections.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/fore-n-background-job.md)
