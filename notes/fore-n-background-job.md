@@ -9,6 +9,8 @@ Linux is a **multi-tasking operating system**, which means it can run multiple p
 
 Understanding how to control these jobs is essential for developers, DevOps engineers, and system administrators.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/SiiS5AZJx0I)](https://youtu.be/SiiS5AZJx0I)
+
 ## What are Jobs in Linux?
 
 A **job** is a process that is started from a shell (terminal session). Jobs are managed by the shell and can run in:
