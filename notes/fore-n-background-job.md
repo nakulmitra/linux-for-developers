@@ -248,13 +248,13 @@ nohup sleep 500 &
 
 ## Conclusion
 
-Job control in Linux allows us to:
+Job control in Linux allows us to
 
 * Run multiple tasks efficiently
 * Manage long-running processes
 * Work productively without blocking the terminal
 
-Mastering these commands is essential for:
+Mastering these commands is essential for
 
 * Developers
 * DevOps engineers
