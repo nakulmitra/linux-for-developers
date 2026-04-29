@@ -246,7 +246,7 @@ pkill sleep
 
 ## Conclusion
 
-Process management is a fundamental Linux skill. Understanding how to safely terminate processes using `kill`, `pkill`, and `killall` is essential for:
+Process management is a fundamental Linux skill. Understanding how to safely terminate processes using `kill`, `pkill`, and `killall` is essential for
 
 * Debugging applications
 * Managing system resources
