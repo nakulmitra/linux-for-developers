@@ -254,3 +254,5 @@ Process management is a fundamental Linux skill. Understanding how to safely ter
 * Automating workflows
 
 Mastering signals and process control gives us deeper insight into how Linux systems operate and prepares us for real-world development and DevOps scenarios.
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/fore-n-background-job.md)
