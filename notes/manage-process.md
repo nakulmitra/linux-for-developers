@@ -4,6 +4,8 @@
 
 In Linux, managing processes is a critical skill for developers, system administrators, and DevOps engineers. Applications may become unresponsive, consume excessive CPU/memory, or need to be stopped manually during debugging or deployment.
 
+[![](https://markdown-videos-api.jorgenkh.no/youtube/LGkPs-6wupc)](https://youtu.be/LGkPs-6wupc)
+
 Linux provides several powerful commands to control and terminate processes:
 
 * `kill` → terminate using Process ID (PID)
