@@ -38,6 +38,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Combining Commands with Pipes & Redirection in Linux](notes/pipe-n-redirections.md)
 - [Understanding Processes in Linux](notes/processes.md)
 - [Background & Foreground Jobs in Linux](notes/fore-n-background-job.md)
+- [Killing & Managing Processes in Linux (`kill`, `killall`, `pkill`)](notes/manage-process.md)
 
 > Think of it as your **course notebook** for the Linux tutorial playlist.
 
