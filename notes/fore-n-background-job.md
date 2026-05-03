@@ -260,4 +260,4 @@ Mastering these commands is essential for
 * DevOps engineers
 * System administrators
 
-[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/processes.md)
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/processes.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/manage-process.md)
