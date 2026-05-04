@@ -16,10 +16,7 @@ However, these commands do not directly "kill" processes. Instead, they send **s
 
 ## What Does “Killing a Process” Mean?
 
-In Linux, a process is not forcefully destroyed by default. Instead:
-
-> A **signal** is sent to the process
-> The process decides how to respond
+In Linux, a process is not forcefully destroyed by default. Instead, a **signal** is sent to the process and the process decides how to respond
 
 Possible responses:
 
