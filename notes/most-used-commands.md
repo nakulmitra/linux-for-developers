@@ -4,7 +4,7 @@
 
 Linux is the backbone of modern software development. From local development environments to production servers and cloud infrastructure, Linux is everywhere.
 
-As a developer, we don’t need to memorize hundreds of commands — but we **must master a core set of commands** that we’ll use daily for:
+As a developer, we don’t need to memorize hundreds of commands but we **must master a core set of commands** that we’ll use daily for:
 
 * Navigating the file system
 * Managing files and directories
@@ -87,7 +87,7 @@ rm -r folder/
 rm -rf folder/
 ```
 
-> **Warning**:
+**Warning**
 
 * No recycle bin in Linux
 * `-rf` can delete everything permanently
