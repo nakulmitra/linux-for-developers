@@ -316,4 +316,4 @@ Mastering these Linux commands will:
 * Help us work confidently on servers
 * Prepare us for technical interviews
 
-> These are not just commands — they are **daily tools for developers**.
+> These are not just commands, they are **daily tools for developers**.
