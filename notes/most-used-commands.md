@@ -317,3 +317,5 @@ Mastering these Linux commands will:
 * Prepare us for technical interviews
 
 > These are not just commands, they are **daily tools for developers**.
+
+[< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/manage-process.md)
