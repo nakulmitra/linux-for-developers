@@ -39,7 +39,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Understanding Processes in Linux](notes/processes.md)
 - [Background & Foreground Jobs in Linux](notes/fore-n-background-job.md)
 - [Killing & Managing Processes in Linux (`kill`, `killall`, `pkill`)](notes/manage-process.md)
-- [Most Used Linux Commands for Developers (Everyday Use)](notes/most-used-commands.md)
+- [Most Used Linux Commands for Developers](notes/most-used-commands.md)
 
 > Think of it as your **course notebook** for the Linux tutorial playlist.
 
