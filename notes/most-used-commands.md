@@ -197,8 +197,8 @@ kill <PID>
 kill -9 <PID>
 ```
 
-* Default → graceful stop
-* `-9` → force kill
+* Default -> graceful stop
+* `-9` -> force kill
 
 # 5. Permissions & Ownership
 
