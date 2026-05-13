@@ -13,8 +13,6 @@ As a developer, we don’t need to memorize hundreds of commands but we **must m
 * Monitoring and managing processes
 * Handling permissions
 
-This guide covers the **most practical Linux commands** used in real-world development and interviews.
-
 [![](https://markdown-videos-api.jorgenkh.no/youtube/ytvNlh-nrFw)](https://youtu.be/ytvNlh-nrFw)
 
 ## Why Developers Must Learn Linux Commands
