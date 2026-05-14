@@ -47,12 +47,12 @@ Follow the tutorials, experiment with commands, and get comfortable with the env
 
 ## YouTube playlists
 * [Java Tutorial Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCgZDkAiCs6uGFK7yzhFkjNJU)
+* [PostgreSQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
 * [Real-World Projects with OOP Concepts](https://www.youtube.com/playlist?list=PLKrxcqbQdCgaAtUObt11xA63eO7kx4Epj)
 * [Object-Oriented Programming (OOP) in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbF2t_O8w2Kjx0R7qYTA2XB)
 * [Exception Handling in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgYT9Eq36sZshd-GurkK2g1d)
 * [Java Collections Framework](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbW61Q0L9gIPE-DdnklEBxy)
 * [Java 8 Enhancements](https://www.youtube.com/playlist?list=PLKrxcqbQdCgbYmzd0OuxRVm5FZes2XySj)
-* [PostgreSQL Series](https://www.youtube.com/playlist?list=PLKrxcqbQdCga1o3NbaommIaQmqDJ_Y3Vo)
 * [Multithreading Series in Java](https://www.youtube.com/playlist?list=PLKrxcqbQdCgahnSGPIJehTKtUU_0kSevR)
 
 ## Support
