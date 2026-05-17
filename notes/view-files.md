@@ -178,6 +178,6 @@ Ctrl + C
 
 ## Conclusion
 
-Understanding how to view files efficiently in Linux is a foundational skill for every developer. Choosing the right command saves time, avoids mistakes, and improves productivity - especially in production environments.
+Understanding how to view files efficiently in Linux is a foundational skill for every developer. Choosing the right command saves time, avoids mistakes and improves productivity. Especially in production environments.
 
 [< Previous Tutorial](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/view-n-editFiles.md) | [Next Tutorial >](https://github.com/nakulmitra/linux-for-developers/blob/master/notes/search-inside-file.md)
