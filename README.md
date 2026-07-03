@@ -41,7 +41,7 @@ The series is structured into multiple parts, each building on the previous one:
 - [Killing & Managing Processes in Linux (`kill`, `killall`, `pkill`)](notes/manage-process.md)
 - [Most Used Linux Commands for Developers](notes/most-used-commands.md)
 
-> Think of it as your **course notebook** for the Linux tutorial playlist.
+***Think of it as your course notebook for the Linux tutorial playlist.***
 
 Follow the tutorials, experiment with commands, and get comfortable with the environment that powers almost every server and cloud system today.
 
